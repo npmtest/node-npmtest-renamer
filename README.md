@@ -1,4 +1,7 @@
-# test coverage for  [renamer (v0.6.1)](https://github.com/75lb/renamer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-renamer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-renamer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-renamer.svg)](https://travis-ci.org/npmtest/node-npmtest-renamer)
+# npmtest-renamer
+
+#### basic test coverage for  [renamer (v0.6.1)](https://github.com/75lb/renamer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-renamer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-renamer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-renamer.svg)](https://travis-ci.org/npmtest/node-npmtest-renamer)
+
 #### Batch rename files and folders
 
 [![NPM](https://nodei.co/npm/renamer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/renamer)
